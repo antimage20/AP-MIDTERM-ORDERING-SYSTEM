@@ -1,5 +1,6 @@
-# AP-MIDTERM-ORDERING-SYSTEM title ng system
-## parang h2 tag
-description
-### parang h6 tag
-description
+# AP-MIDTERM-ORDERING-SYSTEM
+## CLick Link
+Download nyo as Zip.
+### How to run
+Click nyo po yung dinownload nyo tapos extract all click nyo po yung folder na inextract nyo
+
